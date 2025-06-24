@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/harshvadanpatels-projects](https://vercel.com/harshvadanpatels-projects)
 
-- 💻 Strong foundation in **Java, Python, Javascript,**
+- 💻 Strong foundation in **Java, Python, Javascript**
 
 - 📫 How to reach me **harshvadanvpatel2005@gmail.com**
 
