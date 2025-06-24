@@ -33,33 +33,39 @@
 ## Github Stats
 
 <br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvadanpatel&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages by Harshvadanpatel" />
-</p>
-
-
-
-
-
-<br/>
-
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshvadanpatel&row=3&column=3&theme=darkhub" alt="Harshvadan's Trophy Stats" />
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=harshvadanpatel&theme=darkhub&row=1&column=9" 
+      alt="Harshvadan's Trophy Stats" 
+    />
   </a>
 </div>
 <br/>
 
 
 
+&nbsp;
+<p>
+  <img align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshvadanpatel&layout=compact&theme=radical&show_icons=true" 
+    alt="Top Languages by Harshvadanpatel"
+    style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #c778dd; box-shadow: 0 0 10px #c778dd88;"
+  />
+</p>
 
-<br/>
+<p>
+  &nbsp;
+  <img align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=Harshvadanpatel&show_icons=true&theme=radical" 
+    alt="Harshvadan's GitHub Stats"
+    style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #c778dd; box-shadow: 0 0 10px #c778dd88;"
+  />
+</p>
 
-<div align="center">
-  
-  [![Harshvadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshvadanpatel&show_icons=true&theme=radical)]()
-  
-</div>
+
+
+
 <br>
 
 <div align="center">
