@@ -32,15 +32,11 @@
 
 ## Github Stats
 
-<br/>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=harshvadanpatel&theme=darkhub&row=1&column=9" 
-      alt="Harshvadan's Trophy Stats" 
-    />
-  </a>
-</div>
+
+
+
+
+
 
 
 
