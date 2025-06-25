@@ -68,6 +68,7 @@
     <img src="https://nirzak-streak-stats.vercel.app?user=Harshvadanpatel&theme=radical" alt="GitHub Streak - Radical" />
   </a>
 </div>
+<br>
 <p align="center">
   <a href="https://github.com/Harshvadanpatel">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshvadanpatel&bg_color=000000&color=00bfff&line=1e90ff&point=40e0d0&area=true&hide_border=true" alt="GitHub Activity - Custom Blue" />
