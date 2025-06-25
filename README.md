@@ -62,25 +62,14 @@
     style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #c778dd; box-shadow: 0 0 10px #c778dd88;"
   />
 </p>
-
-
-
-
 <br>
-
 <div align="center">
-  
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Harshvadanpatel)](https://git.io/streak-stats)
-  
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Harshvadanpatel&theme=radical" alt="GitHub Streak - Radical" />
+  </a>
 </div>
-
-
-
 <p align="center">
-  
-  [![Harshvadan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshvadanpatel&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/Harshvadanpatel)
-  
+  <a href="https://github.com/Harshvadanpatel">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshvadanpatel&bg_color=000000&color=00bfff&line=1e90ff&point=40e0d0&area=true&hide_border=true" alt="GitHub Activity - Custom Blue" />
+  </a>
 </p>
-
-
-
