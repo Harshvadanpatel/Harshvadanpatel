@@ -17,25 +17,26 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hvpatel457patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hvpatel457patel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshvadan-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshvadan-patel" height="30" width="40" /></a>
-<a href="https://instagram.com/harshvadan_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshvadan_01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshvadan_patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshvadan_patel" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harshvadanvbfds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshvadanvbfds" height="30" width="40" /></a>
-</p>
+### 🔗 Find me on
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/hvpatel457patel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/harshvadan-patel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/harshvadan_01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://www.leetcode.com/harshvadan_patel)
+[![GFG](https://img.shields.io/badge/GFG-0F9D58?logo=google&logoColor=white&style=for-the-badge)](https://auth.geeksforgeeks.org/user/harshvadanvbfds)
+
 
 ---
 ### 🛠️ Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,c,cpp,mongodb,python,java,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,c,cpp,python,java,mysql" />
 </p>
 
 <br>
 
 ## Github Stats
-&nbsp;
+
+
 <p>
   <img align="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshvadanpatel&layout=compact&theme=radical&show_icons=true" 
